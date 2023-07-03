@@ -1,0 +1,155 @@
+.main{
+    width: 100;
+    height:200px
+}
+.loginform{
+    width:400px;
+    height:500px;
+    background-color: teal;
+    margin:auto;
+
+}
+ .loginform input{
+    width:100%;
+    margin-top: 20px;
+    padding:20px;
+    
+}
+.register-div{
+    width:400px;
+    height:300px;
+    background-color:rgb(220, 227, 229);
+    text-align: center;
+    margin: auto;
+}
+.register-div button{
+    background-color: rgb(241, 176, 56);
+    width: 350px;
+}
+
+.detail-img{
+    width:80%;
+    height:300px;
+   
+    margin: 5%;
+}
+.detail-img1{
+    width:100%;
+    height:100px;
+   
+    margin-bottom: 10px;
+    display: inline-flex;
+}
+.detail-img img{
+    width:120%;
+    height: 100%;
+}
+.detail-img1-1{
+    width:30%;
+    height:80px;
+  
+    margin-bottom: 10px;
+    margin: 10px;
+}
+.detail-img1-1 img{
+    width:95px;
+    height:80px;  
+   }
+/*.detail-text{
+    width:80%;
+    height:300px;
+    
+    margin: 5%;
+}*/
+.detail-text1{
+    width:90%;
+    height:200px;
+     margin: 5%
+}
+.detail-text2{
+    width:90%;
+    height: 60px;
+   
+ margin: 5%;
+}
+.detail-text3{
+    width:90%;
+    height: 100px;
+   
+ margin: 5%;
+}
+.detail-text4{
+    width:90%;
+    height: 100px;
+   
+ margin: 5%;
+}
+.detail-cart1{
+    width:80%;
+    height:70px;
+    margin: 5%;
+}
+.detail-cart2{
+    width:100%;
+   text-align: center;
+    display: inline-flex;
+   
+}
+.detail-cart2-btnsub,.detail-cart2-btnadd{
+    width: 30px;
+   border:0px;
+   font-size: 30px;
+   background-color: gray;
+   display: inline-flex;
+}
+.qtynum{
+    width:30px;
+    text-align: center;
+  
+}
+.detail-cart3{
+    width:80%;
+    height:70px;
+     margin: 5%;
+}
+.detail-cart3 Button{
+    width:70%;
+    height:50px;
+display: inline-block;
+    margin: 5%;
+   background-color: rgb(229, 197, 83);
+   color:black;
+}
+
+.detail-cart4{
+    width:80%;
+    height:70px;
+   
+    margin: 5%;
+}
+.detail-cart4 Button{
+    width:70%;
+    height:50px;
+    background-color: rgb(229, 197, 83);
+    margin: 5%;
+    color:black;
+   
+}
+/*add to cart--------------*/
+.addtocart-img{
+    width:150px;
+    height: 150px;
+}
+.addtocart-item{
+    display:inline-flex;
+}
+.addtocart-text-name{
+    margin:0px;
+    font-size: 15px;
+    padding: 0px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.addtocart-text-rate{
+    margin-left: 15px;
+}
